@@ -1,0 +1,229 @@
+{
+    "header": {
+        "MyBag" : "Túi đồ",
+        "MyNFT": "NFT của tôi",
+        "Quest": "Nhiệm vụ",
+        "Exchange": "Sàn giao dịch",
+        "Earn": {
+            "Earn": "Kiếm",
+            "Liquidity": "Thanh khoản",
+            "LiquidityBody": "Cung cấp thanh khoản để kiếm phí giao dịch",
+            "Mining": "Khai thác",
+            "MiningBody": "Đặt cọc LP để kiếm phẩn thưởng tokens"
+        },
+        "Crowdpooling": "Crowdpooling",
+        "Tools": {
+            "Tools": "Công cụ",
+            "CreateAToken": "Khởi tạo token",
+            "CreateATokenBody": "Tạo Token của riêng bạn với một cú nhấp chuột. Không cần mã hóa!",
+            "Pools": "Pool",
+            "PoolsBody": "Tạo thanh khoản thị trường miễn phí và tùy chỉnh các chiến lược lập thị trường của bạn",
+            "CreateCrowdpooling": "Khởi tạo Crowdpooling",
+            "CreateCrowdpoolingBody": "Phân phối Token, mang cơ hội bình đẳng với các pool do cộng đồng xây dựng",
+            "CreateLiquidity": "Khởi tạo Mining",
+            "CreateLiquidityBody": "Tạo phần thưởng khai thác cho các nhóm dự án để khuyến khích LP hoặc tạo Token thông báo gốc",
+            "Dashboards": "Trang tổng quan",
+            "DashboardsBody": "Nhận số liệu thống kê nền tảng DODO mới nhất"
+        },
+        "NFT": {
+            "NFT": "NFT",
+            "TradeNFT": "Giao dịch phân mảnh NFT",
+            "TradeNFTBody": "Khám phá và giao dịch các phân mảnh NFT",
+            "Fragments": "Mảnh",
+            "FragmentsBody": "Phát hành và tạo giao dịch phân mảnh cho NFT của riêng bạn",
+            "CreateNFT": "Tạo NFT",
+            "CreateNFTBody": "Tải lên các tệp phương tiện, tạo NFT bằng một cú nhấp chuột",
+            "PicKAvt": "Chọn hình đại diện",
+            "MoneyHungry": "Dino ham tiền",
+            "NFTMarket":"Thị trường NFT"
+        },
+        "Grovernance": {
+            "Governance": "Quản trị",
+            "DAO": "DAO",
+            "DAOBody": "DODO DAO đã được thành lập",
+            "vDODO": "vDODO",
+            "vDODOBody": "Đúc vDODO để kiếm thêm DODO",
+            "Forum": "Diễn đàn",
+            "ForumBody": "Tham gia vào cộng đồng DODO",
+            "Voting": "Bỏ phiếu",
+            "VotingBody": "Bỏ phiếu cho cộng đồng DIP"
+        },
+        "Bridge": {
+            "Bridge": "Cầu",
+            "ArbitrumBridge": "Cầu Arbitrum",
+            "ArbitrumBridgeBody": "Cầu chính thức Arbitrum",
+            "BSCBridge": "Cầu BSC",
+            "BSCBridgeBody": "Cầu chính thức BSC",
+            "cBridge": "cBridge",
+            "cBridgeBody": "Được cung cấp bởi Celer Network",
+            "PolygonBridge": "Cầu Polygon",
+            "PolygonBridgeBody": "Cầu chính thức Polygon"
+        },
+        "connect": "Kết nối Ví",
+        "miniMenu": {
+            "Endpoint": {
+                "Endpoint": "Điểm cuối",
+                "Global": "Toàn cầu",
+                "Custom": "Tùy chỉnh"
+            },
+            "Language": {
+                "Language": "Ngôn ngữ",
+                "English": "English",
+                "Vietnamese": "Tiếng Việt"
+            },
+            "Network": "Mạng lưới",
+            "Help": "Trợ giúp",
+            "Announcements": "Thông báo",
+            "Forum": "Diễn đàn",
+            "Docs": "Tài liệu"
+        }
+    },
+    "tradeNFT": {
+        "titleTop": "Mua NFT chưa bao giờ dễ dàng hơn.",
+        "description": "Sự phân mảnh làm giảm rào cản gia nhập đối với việc đầu tư vào NFT có thứ hạng cao. Mua và bán phân mảnh, bất cứ lúc nào bạn muốn.",
+        "placeholderInput": "Tìm kiếm theo tên hoặc địa chỉ phân mảnh NFT",
+        "search": "Tìm kiếm",
+        "explore": "Khám phá",
+        "result": "kết quả",
+        "myFavorites": "Danh sách yêu thích",
+        "retail": "Trao đổi",
+        "marketCap": "Vốn hóa thị trường",
+        "price": "Giá"
+    },
+    "createFragments": {
+        "title": "Tạo các phân mảnh",
+        "description": "Phân mảnh NFT của bạn để mở ra khả năng thanh khoản chưa khai thác, khả năng khám phá giá và hơn thế nữa",
+        "buyoutMode": "Mua lại phân mảnh",
+        "buyoutModeBody": "Mua tất cả các mảnh để có được NFT ",
+        "create": "Tạo",
+        "retailMode": "Pool phân mảnh",
+        "retailModeBody": "Sử dụng số lượng mảnh nhất định để mua hoặc bán NFT",
+        "myFragmentList": "Danh sách phân mảnh",
+        "search": "Tìm kiếm",
+        "fragmentName": "Fragment Name",
+        "type": "Type",
+        "vaultName": "Vault Name",
+        "NFTs": "NFTs",
+        "NoMatch":"Không tìm thấy kết quả"
+    },
+    "createNFT": {
+        "goBack": " Quay lại",
+        "createNFT": "Tạo NFT",
+        "select": "Chọn loại NFT:",
+        "single": "Đơn lẻ",
+        "singleBody":"Tạo một NFT độc quyền",
+        "multiple":"Bội số",
+        "multipleBody":"Tạo nhiều NFT (ERC-1155)",
+        "populate":"Điền thông tin:",
+        "selectFile":"Chọn file",
+        "supportFile":"Hỗ trợ file JPG, PNG, TIF, GIF lên đến 40 MB",
+        "NFTName":"Tên",
+        "NFTNameInput":"Vui lòng nhập tên",
+        "vaultName":" Tên bộ sưu tập",
+        "quantity":"Quantity (Optional)",
+        "quantityInput":"Số lượng (không bắt buộc)",
+        "submit":"Xác nhận việc khởi tạo"
+    },
+    "profile": {
+        "profile":"Tài khoản",
+        "title": "Tài sản trong DODO:",
+        "total": "Tổng tài sản DODO",
+        "Liquidity": {
+            "Liquidity": "Thanh khoản",
+            "liquidityAssets": "Tài sản thanh khoản:",
+            "btnLiquidity": "Đến danh sách thanh khoản của tôi",
+            "left": "Cập giao dịch",
+            "mid":"Thanh khoản của tôi",
+            "right":"Giá trị"
+        },
+        "Mining": {
+            "Mining": "Đang khai thác",
+            "miningAssets": "Tài sản khai thác:",
+            "btnMining": "Đi đến danh sách khai thác",
+            "left": "Cặp giao dịch",
+            "mid":"Thanh khoản của tôi",
+            "right":"Giá trị"
+        },
+        "Crowdpooling": {
+            "Crowdpooling": "Crowdpooling",
+            "Crowdpooling Assets:": "Tài sản Crowdpooling:",
+            "btnCrowdpooling": "Go to Crowdpooling list",
+            "left": "Crowdpooling",
+            "mid":"Chia sẻ của tôi",
+            "right":"Giá trị"
+        },
+        "vDODO": {
+            "vDODO": "vDODO",
+            "vDODOAssets": "Tài sản vDODO:",
+            "btnvDODO": "Đi tới danh sách vDODO",
+            "left": "vDODO",
+            "mid":"vDODO của tôi",
+            "right":"Giá trị"
+        },
+        "myNFT": "Tài sản NFT",
+        "fragmentsTotal":"Tổng phân mảnh:",
+        "fragments":{
+            "Fragments":"Phân mảnh",
+            "title":"Mua NFT chưa bao giờ dễ dàng hơn.",
+            "des":"Sự phân mảnh làm giảm rào cản gia nhập khi đầu tư vào NFT top đầu. Mua và bán phân mảnh bất cứ lúc nào bạn muốn.",
+            "btn":"Mua phân mảnh NFT",
+            "next":"Mua phân mảnh NFT"
+        },
+        "NFT":{
+            "NFT":"NFT",
+            "CreateNFT":"Tạo một NFT mới",
+            "next":"Tạo một NFT mới"
+        },
+        "myBadge":"Huy hiệu của tôi",
+        "totalVolume":"Tổng khối lượng",
+        "constellationSeries":"Seri chòm sao" 
+    },
+    "Modal":{
+        "connect":"Kết nối Ví",
+        "checkboxLeft":"Tôi đã đọc, hiểu và đồng ý với ",
+        "checkboxRight":" Điều khoản dịch vụ.",
+        "selectNetwork":"Chọn mạng",
+        "selectWallet":"Chọn ví của bạn"
+
+    },
+    "pickavatar": {
+        "pickyour": "Chọn hình đại diện của bạn",
+        "pickdes": "Người dùng cầm Bảng vẽ có thể tự do tạo avatar cá nhân hóa của riêng mình!",
+        "pickdeslink": "Làm thế nào để chọn Avatar NFT của tôi?",
+        "Synthesize": "Tổng hợp",
+        "Body": "Thân",
+        "Headdress": "Mũ",
+        "Eyes": "Mắt",
+        "Mouth": "Miệng",
+        "Clothes": "Quần áo",
+        "Stuff": "Phụ kiện",
+        "Background": "Bối cảnh",
+        "TheOriginal":"Dinos nguyên bản",
+        "Color":"Màu sắc",
+        "random":"NFT Ngẫu nhiên",
+        "connect":"Thêm khủng long",
+        "Createyou":"Tạo hình đại diện được cá nhân hóa của riêng bạn!",
+        "Drawing":"Số bản vẽ đang giữ",
+        "Avatar":"Số Avatar NFT đang giữ"
+    },
+    "dinomoney":{
+        "Stakemoney":"Dino đặt cọc",
+        "Money-hungry":"Khủng long háu tiền chia sẻ 0,04% khối lượng trao đổi, được phân bổ theo tỷ lệ sức mạnh. và chèn chúng vào các khe!",
+        "distributed":"Phần thưởng hôm nay：",
+        "Myearnings":"Thu nhập của tôi",
+        "buy":"Mua NFT",
+        "create":"Tạo",
+        "connect":"Kết nối ví",
+        "Mymoney":"Money-hungry Dino của tôi",
+        "NoData":"Không dữ liệu",
+        "Myslot":"Lượt của tôi",
+        "After":"Sau khi thu thập cấp độ 1-6 Dino NFT đói tiền và đưa nó vào khe, bạn có thể nhận được 5 lần tiền thưởng Power",
+        "Enable":"Cho phép",
+        "collecting":"Sau khi thu thập cấp độ 1-6 Dino NFT đói tiền và đưa nó vào khe, bạn có thể nhận được 5 lần tiền thưởng Power"
+    },
+    "nftmarket":{
+        "NFTMarket":"Thị trường NFT",
+        "Digital":"Thị trường kỹ thuật số cho các bộ sưu tập tiền điện tử và các mã thông báo không thể thay thế (NFT). Mua, bán và khám phá các tài sản kỹ thuật số độc quyền.",
+        "Trading":"Lịch sử giao dịch"
+    }
+}

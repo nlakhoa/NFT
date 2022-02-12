@@ -1,0 +1,236 @@
+{  
+    "header": {
+        "MyBag" : "My bag",
+        "MyNFT": "My NFT",
+        "Quest": "Quests",
+        "Exchange": "Exchange",
+        
+        "Earn": {
+            "Earn": "Earn",
+            "Liquidity": "Liquidity",
+            "LiquidityBody": "Provide liquidity to earn trading fees",
+            "Mining": "Mining",
+            "MiningBody": "Stake LP to earn token rewards"
+        },
+        "Crowdpooling": "Crowdpooling",
+        "Tools": {
+            "Tools": "Tools",
+            "CreateAToken": "CreateAToken",
+            "CreateATokenBody": "Create your own tokens with one click. No coding required!",
+            "Pools": "Pools",
+            "PoolsBody": "Create and manage liquidity markets and customize your market making strategies",
+            "CreateCrowdpooling": "CreateCrowdpooling",
+            "CreateCrowdpoolingBody": "Equal opportunity token distribution with community-built pools",
+            "CreateLiquidity": "CreateLiquidity",
+            "CreateLiquidityBody": "Mining rewards creation for project teams to incentivize LPs or create native token staking",
+            "Dashboards": "Dashboards",
+            "DashboardsBody": "Get the latest DODO platform stats"
+        },
+        "MetaTime":{
+            "MetaTime" : "METATIME",
+            "TimeExchange" : "TIME Exchange",
+            "TimeStaking": "Time Staking"
+        },
+        "NFT": {
+            "NFT": "NFT",
+            "TradeNFT": "TradeNFT",
+            "TradeNFTBody": "Explore and Trade NFT Fragments",
+            "Fragments": "Fragments",
+            "FragmentsBody": "Create and Issue Fragments for Your NFTs",
+            "CreateNFT": "CreateNFT",
+            "CreateNFTBody": "Upload Your Media files and Create NFTs with One Click",
+            "PicKAvt": "Pick Avatar",
+            "MoneyHungry": "Money-hungry Dino",
+            "NFTMarket": "NFT Market"
+        },
+        "Grovernance": {
+            "Governance": "Governance",
+            "DAO": "DAO",
+            "DAOBody": "DODO DAO has been established",
+            "vDODO": "vDODO",
+            "vDODOBody": "Mint vDODO to get more DODO",
+            "Forum": "Forum",
+            "ForumBody": "Get involved in the DODO community",
+            "Voting": "Voting",
+            "VotingBody": "Propose and vote on DIPs"
+        },
+        "Bridge": {
+            "Bridge": "Bridge",
+            "ArbitrumBridge": "ArbitrumBridge",
+            "ArbitrumBridgeBody": "Arbitrum Official Bridge",
+            "BSCBridge": "BSCBridge",
+            "BSCBridgeBody": "BSC Official Bridge",
+            "cBridge": "cBridge",
+            "cBridgeBody": "Powered by Celer Network",
+            "PolygonBridge": "PolygonBridge",
+            "PolygonBridgeBody": "Polygon Official Bridge"
+        },
+        "connect": "Connect wallet",
+        "miniMenu": {
+            "Endpoint": {
+                "Endpoint": "Endpoint",
+                "Global": "Global",
+                "Custom": "Custom"
+            },
+            "Language": {
+                "Language": "Language",
+                "English": "English",
+                "Vietnamese": "Tiếng Việt"
+            },
+            "Network": "NetWork",
+            "Help": "Help",
+            "Announcements": "Announcements",
+            "Forum": "Forum",
+            "Docs": "Docs"
+        }
+    },
+    "tradeNFT": {
+        "titleTop": "Buying NFT Has Never Been Easier.",
+        "description": "NFT Fragmentation Lowers the Barrier of Entry for Investing in High-Value NFTs. Investing in NFT Has Never Been Easier.",
+        "placeholderInput": "Search by Fragment names or Fragment contract addresses",
+        "search": "Search",
+        "explore": "Explore",
+        "result": "result",
+        "myFavorites": "My Favorites",
+        "retail": "Retail",
+        "marketCap": "MarketCap",
+        "price": "Price"
+    },
+    "createFragments": {
+        "title": "Create Fragments",
+        "description": "Fragmentize your NFTs for easy price discovery, and unleash untapped liquidity",
+        "buyoutMode": "Buyout Mode",
+        "buyoutModeBody": "Buy out Fragments to claim NFTs",
+        "create": "Create",
+        "retailMode": "Retail Mode",
+        "retailModeBody": "Exchange for NFTs with Fragments",
+        "myFragmentList": "My Fragment List",
+        "search": "Search",
+        "fragmentName": "Fragment Name",
+        "type": "Type",
+        "vaultName": "Vault Name",
+        "NFTs": "NFTs",
+        "NoMatch": "No matches found"
+    },
+    "createNFT": {
+        "goBack": "Go back to the previous step",
+        "createNFT": "Create an NFT",
+        "select": "Select the NFT Type:",
+        "single": "Single",
+        "singleBody": "Create an Unique NFT (ERC-721)",
+        "multiple": "Multiple",
+        "multipleBody": "Create Multiple NFTs (ERC-1155)",
+        "populate": "Populate the Fields:",
+        "selectFile": "Select Your Files",
+        "supportFile": "Supports JPG, PNG, TIF, GIF (Maximum 40MB)",
+        "NFTName": "NFT Name",
+        "NFTNameInput": "Please enter the name",
+        "vaultName": "Vault Name",
+        "quantity": "Quantity (Optional)",
+        "quantityInput": "Please enter the quantity",
+        "submit": "Confirm the Creation"
+    },
+    "profile": {
+        "profile":"Profile",
+        "title": "Assets in DODO:",
+        "total": "DODO Total Assets",
+        "Liquidity": {
+            "Liquidity": "Liquidity",
+            "liquidityAssets": "Liquidity Assets:",
+            "btnLiquidity": "Go to Liquidity list",
+            "left": "Trading Pair",
+            "mid": "My Liquidity",
+            "right": "Value"
+        },
+        "Mining": {
+            "Mining": "Mining",
+            "miningAssets": "Mining Assets:",
+            "btnMining": "Go to Mining list",
+            "left": "Trading Pair",
+            "mid": "My Liquidity",
+            "right": "Value"
+        },
+        "Crowdpooling": {
+            "Crowdpooling": "Crowdpooling",
+            "Crowdpooling Assets:": "Crowdpooling Assets:",
+            "btnCrowdpooling": "Go to Crowdpooling list",
+            "left": "Crowdpooling",
+            "mid": "My Share",
+            "right": "Value"
+        },
+        "vDODO": {
+            "vDODO": "vDODO",
+            "vDODOAssets": "vDODO Assets:",
+            "btnvDODO": "Go to vDODO list",
+            "left": "vDODO",
+            "mid": "My vDODO",
+            "right": "Value"
+        },
+        "myNFT": "My NFT Assets",
+        "fragmentsTotal": "Fragments Total Assets:",
+        "fragments": {
+            "Fragments": "Fragments",
+            "title": "Buying NFT Has Never Been Easier.",
+            "des": "NFT Fragmentation Lowers the Barrier of Entry for Investing in High-Value NFTs. Investing in NFT Has Never Been Easier.",
+            "btn": "Please get Fragments first",
+            "next": "Please get Fragments first"
+        },
+        "NFT": {
+            "NFT": "NFT",
+            "CreateNFT": "Create a New NFT",
+            "next": "Create a New NFT"
+        },
+        "myBadge": "My Badge",
+        "totalVolume": "Total Volume",
+        "constellationSeries": "Constellation Series"
+    },
+    "Modal": {
+        "connect": "Connect Wallet",
+        "checkboxLeft": "I have read, understand, and agree to the ",
+        "checkboxRight": " Terms of Service.",
+        "selectNetwork": "Select Network",
+        "selectWallet": "Select Wallet"
+    },
+    "pickavatar": {
+        "pickyour": "Pick your Avatars",
+        "pickdes": "Users who hold Drawing boards can freely create their own personalized avatars!",
+        "pickdeslink": "How to pick my Avatar NFT?",
+        "Synthesize": "Synthesize",
+        "Body": "Body",
+        "Headdress": "Headdress",
+        "Eyes": "Eyes",
+        "Mouth": "Mouth",
+        "Clothes": "Clothes",
+        "Stuff": "Stuff",
+        "Background": "Background",
+        "TheOriginal":"The Original Dinos",
+        "Color":"Color",
+        "random":"Random NFT",
+        "connect":"Create your NFT",
+        "Createyou":"Create you own personalized avatars!",
+        "Drawing":"Currently holding Drawing boards",
+        "Avatar":"Currently holding an Avatar NFT "
+    },
+    "dinomoney":{
+        "Stakemoney":"Stake money-hungry Dino",
+        "Money-hungry":"Money-hungry Dinos share 0.04% of the exchange volume, distributed by the power pro rata.Different levels of Money-hungry Dinos have different Power, and you can get 5 times more Power bonus by putting together a whole set of Money-hungry Dinos and inserting them into the slots !",
+        "distributed":"Rewards to be distributed today: ",
+        "Myearnings":"My earnings",
+        "buy":"Buy NFT",
+        "create":"Create",
+        "connect":"Connect Wallet",
+        "distributed":"Rewards to be distributed today",
+        "Mymoney":"My money-hungry Dino",
+        "NoData":"No Data",
+        "Myslot":"My slot",
+        "After":"After collecting level 1-6 Money-hungry Dino NFT and inserting it into the slot, you can get 5 times of Power bonus",
+        "Enable":"Enable",
+        "collecting":"After collecting level 1-6 Money-hungry Dino NFT and inserting it into the slot, you can get 5 times of Power bonus"
+    },
+    "nftmarket":{
+        "NFTMarket":"NFT Market",
+        "Digital":"Digital marketplace for crypto collectibles and non-fungible tokens (NFTs). Buy, sell, and discover exclusive digital assets.",
+        "Trading":"Trading History"
+    }
+
+}
