@@ -1,9 +1,6 @@
 # FrontEndNFT
 FrontEndNFT Portal 
 
-Tài khoản Moralis: 
-    Tài khoản: anhkhoa999go@gmail.com
-    Mật khẩu: oa741953Kh
 
 
 1. Chọn mạng Rinkeby
